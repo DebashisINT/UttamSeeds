@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900560225080",
+    "project_id": "uttamseeds-708dd",
+    "storage_bucket": "uttamseeds-708dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900560225080:android:306f9ac2b9a59d5d50b7cd",
+        "android_client_info": {
+          "package_name": "com.breezeuttamseeds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8h6KZLhdODv_71v_Wg7KN1F3kkr5oRuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
